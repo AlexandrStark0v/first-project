@@ -1,0 +1,9 @@
+.khan__quote-author-subline {
+    width: auto;
+    margin: 10px auto auto 0px;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: normal;
+  
+    border: 1px solid red;
+  }

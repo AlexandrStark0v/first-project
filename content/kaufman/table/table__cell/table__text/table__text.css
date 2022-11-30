@@ -1,0 +1,7 @@
+.table__text {
+    margin: 0;
+    border: 1px solid red;
+    line-height:1.15em; 
+    font-size: 18px;
+    font-style: normal;
+  }

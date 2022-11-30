@@ -1,0 +1,8 @@
+.text-subtitle {
+    margin:0 auto;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    border: 1px solid red;
+  }

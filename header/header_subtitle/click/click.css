@@ -1,0 +1,8 @@
+.click {
+    transition: background-color 0.3s linear 0.3s ;
+    text-decoration: none;
+  }
+  
+  .click:hover {
+    opacity: 0.2;
+  }

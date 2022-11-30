@@ -1,0 +1,7 @@
+.footer__author{
+    display: flex;
+    width: auto;
+    height: auto;
+    margin: 0;
+      border: 1px solid red;
+    }

@@ -1,0 +1,13 @@
+.footer__column {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:90%;
+    height: auto;
+    min-height: 350px ;
+    margin: 60px auto 40px auto;
+    background-color: black;
+    border: 1px solid red; 
+    overflow: hidden;
+    
+  }

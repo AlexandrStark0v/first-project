@@ -1,0 +1,9 @@
+.table__cell {
+    width: 250px;
+    height: auto;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+  
+  }

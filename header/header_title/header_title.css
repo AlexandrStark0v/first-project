@@ -1,0 +1,14 @@
+.header_title {
+    margin-left: 64px;
+    align-self: center;
+    width: 730px;
+    height: auto;
+    border: 1px solid red;
+    left: 64px;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: 600;
+    font-family: Inter ;
+    z-index: 1;
+  
+  }
